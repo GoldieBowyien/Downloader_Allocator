@@ -20,10 +20,6 @@ The Download Allocator is a Python program that helps you organize your download
 
 4. Install the required dependencies by running the following command:
 
-
-
-# Download directory folder Allocator Tool
-
 - pip install shutil
 - pip install threading
 - pip install tkinter
